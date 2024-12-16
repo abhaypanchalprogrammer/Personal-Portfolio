@@ -61,7 +61,7 @@ function openTwitter() {
   window.open("https://x.com/programmer2005");
 }
 function nextPage() {
-  window.open("/assets/CV.pdf");
+  window.open("https://abhaypanchalprogrammer.github.io/Personal-Portfolio/assets/CV.pdf");
 }
 function openlink() {
   window.open("https://www.linkedin.com/in/abhay-panchal-05966a337");
