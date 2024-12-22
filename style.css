@@ -371,3 +371,7 @@ img {
 .darkmode #theme svg:last-child {
     display: block;
 }
+
+#theme {
+  cursor: pointer;
+}
